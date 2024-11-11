@@ -2,8 +2,7 @@
 staðsetningu og ferð International Space Station(ISS).
 
 Fann þetta á ehv síðu og hljómaði bara áhugavert, síðan
-sem ég fann var reyndar aðeins flottari (https://iss.alanjc.com/)
-flottari enn ég læt þetta duga.
+sem ég fann var reyndar aðeins flottari (https://iss.alanjc.com/) enn ég læt þetta duga.
 
 # React + Vite
 
